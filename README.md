@@ -1,2 +1,2 @@
-Se encuentran todos los desafios menos el 11 que  no esta mergeado con en la main , pq me daba error de compatibnilidad el archivo .gitignore, y el desadfio 8 se encuentra en el archivo llamado main.
-
+Hola Profeeee, espero que le ande todo bien ajjaja. El desafio 11 esta en una rama aparte porque no me dejaba hacer el merge a la main por el archivo .gitignore. El Desafio 8 se encuentra en el archivo main. El desafio 12 funciona por consola(la consigna no especificaba la necesidad de tener una interfaz).
+Hablando de otro tema,le agradezco por su tiempo en este semestre, usted sabe que no me es nada facil el desarrollo, y yo le agradezco que me haya ayudado, a entender aunque sea un poco mas de todo lo referido al desarrollo de un software. Sin mas preambulo, espero que Dios la bendiga. Saludos. Agustín. 
